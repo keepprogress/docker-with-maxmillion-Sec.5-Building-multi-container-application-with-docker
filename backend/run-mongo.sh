@@ -1,0 +1,1 @@
+docker run --name mongodb --rm -d --network goals-net mongo
